@@ -36,4 +36,4 @@ jugador = prompt("Elije 1 para diamante, 2 para papel, 3 para tijera ")
     } else {
         alert("PERDISTE")
     }
- //De nuevo terminado de nuevo otra vez
+ 
